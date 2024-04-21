@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STAC", "STAC\STAC.csproj", "{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nodify.Shared", "Nodify.Shared\Nodify.Shared.csproj", "{9480EB1F-5457-48A4-B442-818EE8E1B78C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STACNodes", "Nodify.Calculator\STACNodes.csproj", "{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Benchmark|Any CPU = Benchmark|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Benchmark|Any CPU.ActiveCfg = Benchmark|Any CPU
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Benchmark|Any CPU.Build.0 = Benchmark|Any CPU
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851BE4E9-B897-4D1A-9598-FD7B4DD9D8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Benchmark|Any CPU.ActiveCfg = Benchmark|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Benchmark|Any CPU.Build.0 = Benchmark|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411C3EC4-02B8-46F1-AB58-A58E9CB1C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Benchmark|Any CPU.ActiveCfg = Benchmark|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Benchmark|Any CPU.Build.0 = Benchmark|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9480EB1F-5457-48A4-B442-818EE8E1B78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Benchmark|Any CPU.ActiveCfg = Benchmark|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Benchmark|Any CPU.Build.0 = Benchmark|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AAC35A-FF10-4BAF-BB89-FE2AE6DC28F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75684C8-5E9D-4295-BFC0-1CAECA367015}
+	EndGlobalSection
+EndGlobal
